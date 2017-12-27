@@ -5,7 +5,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Velox</title>
+        <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/V_Tele_2012.svg/200px-V_Tele_2012.svg.png">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
